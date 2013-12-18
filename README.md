@@ -14,5 +14,8 @@ Usage
 =====
 
 five9 = Five9()
+
 skills = five9.client.service.getSkills()
+
 print skills
+
